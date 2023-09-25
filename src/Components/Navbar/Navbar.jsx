@@ -3,7 +3,7 @@ import Image from "../../images/Logo.png"
 const Navbar = () => {
     return (
         <div>
-            <nav className="flex justify-between items-center p-2"> 
+            <nav className="flex flex-col md:flex-row  justify-between items-center p-2 gap-4"> 
                <img src={Image} alt="image" /> 
                 <ul className="flex gap-5">
                     <li>

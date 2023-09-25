@@ -1,14 +1,13 @@
 import Banner from "../../Components/Banner/Banner";
 import {useLoaderData} from "react-router-dom";
+import DonationAllCard from "../DonationAllCard/DonationAllCard";
 const Home = () => {
     const donations= useLoaderData();
-    console.log(donations)
+    // console.log(donations)
     return (
-        <div>
+        <div className="px-3">
             <Banner></Banner>
-            <div className="py-6">
-               Data length:{donations.length}
-            </div>
+            <DonationAllCard donations={donations}></DonationAllCard>
         </div>
     );
 };
