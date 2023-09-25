@@ -56,7 +56,7 @@
         "card_bg": "#79c23f26",
         "text_bg": "#79C23F",
         "button_bg": "#79C23F",
-        "description": "Support clothing drives to provide attire to those in need.",
+        "description": "Support clothing drives to   provide attire to those in need.",
         "price": 29.99
     },
     {
@@ -68,7 +68,7 @@
         "card_bg": "#ff444a26",
         "text_bg": "#FF444A",
         "button_bg": "#FF444A",
-        "description": "Empower the future generation with education by contributing to scholarships.",
+        "description": "Empower future child   with education by contributing to scholarships.",
         "price": 59.99
     },
     {
@@ -80,7 +80,7 @@
         "card_bg": "#0052ff26",
         "text_bg": "#0052FF",
         "button_bg": "#0052FF",
-        "description": "Help provide essential medications to those in need",
+        "description": "Help provide essential   medications to those in need",
         "price": 19.99
     },
     {
@@ -92,7 +92,7 @@
         "card_bg": "#f8714726",
         "text_bg": "#F87147",
         "button_bg": "#F87147",
-        "description": "Join the fight against hunger and make a difference with your donation.",
+        "description": "Join the fight against   hunger and make a difference with your donation.",
         "price": 5.99
     },
     {
@@ -104,7 +104,7 @@
         "card_bg": "#ff444a26",
         "text_bg": "#FF444A",
         "button_bg": "#FF444A",
-        "description": "Support educational programs that bridge the learning gap in underserved areas.",
+        "description": "Support educational for   programs that bridge the learning gap in underserved areas.",
         "price": 79.99
     },
     {
@@ -116,7 +116,7 @@
         "card_bg": "#0052ff26",
         "text_bg": "#0052FF",
         "button_bg": "#0052FF",
-        "description": "Help provide essential medications to those in need by making a donation.",
+        "description": "Help provide essential  medications to those in need by making a donation.",
         "price": 34.99
     },
     {
@@ -128,7 +128,7 @@
         "card_bg": "#79c23f26",
         "text_bg": "#79C23F",
         "button_bg": "#79C23F",
-        "description": "Donate clothing to keep people warm and comfortable during harsh weather.",
+        "description": "Donate clothing to keep   people warm and comfortable during harsh weather.",
         "price": 49.99
     },
     {
@@ -140,7 +140,7 @@
         "card_bg": "#f8714726",
         "text_bg": "#F87147",
         "button_bg": "#F87147",
-        "description": "Provide meals to those in need and ensure no one goes to bed hungry.",
+        "description": "Provide meals to those   in need and ensure no one goes to bed hungry.",
         "price": 19.99
     }
 ]
