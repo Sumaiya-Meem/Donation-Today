@@ -35,12 +35,13 @@ const Donation = () => {
                     }
                 </div>
 
-                {donationsItem.length >= 4 && 
+                {donationsItem.length >= 4 && !isShowAll && (
                  <div className="flex justify-center mt-4">
-                    <button onClick={()=>setIsShowAll(!isShowAll)} className="bg-[#009444] text-white capitalize p-4 rounded-lg font-medium">
-                        {isShowAll? "See Less":"See All"}
+                    <button onClick={()=>setIsShowAll(true)} className="bg-[#009444] text-white capitalize p-4 rounded-lg font-medium">
+                        See All
                     </button>
-                </div>}
+                </div>
+                )}  
 
             </div>
            }
@@ -50,3 +51,4 @@ const Donation = () => {
 };
 
 export default Donation;
+
