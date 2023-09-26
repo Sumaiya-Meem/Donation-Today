@@ -1,8 +1,19 @@
+import { useEffect, useState } from "react";
 
 const Statistics = () => {
+    const [totalDonation,setTotalDonation] =useState([]);
+    useEffect(()=>{
+        const donationCard = JSON.parse(localStorage.getItem('card'));
+        if(donationCard){
+            setTotalDonation(donationCard);
+
+        }     
+        
+    },[])
+console.log(totalDonation.length)
     return (
         <div>
-             This is Statistic
+            <p>{totalDonation.length}</p>
         </div>
     );
 };
