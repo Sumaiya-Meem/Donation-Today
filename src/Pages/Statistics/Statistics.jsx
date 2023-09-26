@@ -39,7 +39,7 @@ const Statistics = () => {
                 />
 
             </div>
-            <div className="flex justify-center items-center gap-5">
+            <div className="flex flex-col md:flex-row justify-center items-center gap-5">
                 <div className="flex items-center gap-2">
                     <p>Your Donation</p>
                     <div className="h-[12px] w-[120px] bg-[#00C49F]"></div>
