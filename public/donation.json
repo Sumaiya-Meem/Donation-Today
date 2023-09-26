@@ -2,145 +2,145 @@
     {
         "id": 1,
         "picture": "https://i.ibb.co/NxDLytc/Health.png",
-        "title": "Health",
-        "category": "health",
+        "title": "Clean water for children",
+        "category": "Health",
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_bg": "#0052FF",
         "button_bg": "#0052FF",
-        "description": "Clean water for children",
-        "price": 29.99
+        "description": "Help us make a difference in healthcare by providing essential supplies to hospitals and clinics. Your donation ensures that healthcare professionals have access to the tools they need to save lives. We prioritize the distribution of medical equipment, protective gear, and other critical supplies to medical facilities in need. Join us in supporting.",
+        "price": 299.99
     },
     {
         "id": 2,
         "picture": "https://i.ibb.co/wz5PFG5/Education.png",
-        "title": "Education",
-        "category": "education",
+        "title": "Good education",
+        "category": "Education",
         "category_bg": "#ff444a33",
         "card_bg": "#ff444a26",
         "text_bg": "#FF444A",
         "button_bg": "#FF444A",
-        "description": "Good education",
-        "price": 49.99
+        "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education .",
+        "price": 491.99
     },
     {
         "id": 3,
         "picture": "https://i.ibb.co/DL7g6W3/Clothing.png",
-        "title": "Clothing",
-        "category": "clothing",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_bg": "#79C23F",
         "button_bg": "#79C23F",
-        "description": "Used Clothing Drive",
-        "price": 39.99
+        "description": "Your donation helps provide warm clothing to individuals and families in need, especially during cold seasons. Winter can be harsh for those without proper attire, and your support ensures that people stay warm and comfortable. Join us in making a difference in the lives of those facing adversity and helping them stay cozy during ",
+        "price": 392.99
     },
     {
         "id": 4,
         "picture": "https://i.ibb.co/RS3kxS8/Food.png",
-        "title": "Food",
-        "category": "food",
+        "title": "Better Food for Everyone",
+        "category": "Food",
         "category_bg": "#f8714733",
         "card_bg": "#f8714726",
         "text_bg": "#F87147",
         "button_bg": "#F87147",
-        "description": "Better Food for Everyone",
-        "price": 9.99
+        "description": "Join us in the battle against hunger by providing nutritious meals to individuals and families in need. Hunger is a pressing issue that affects millions of people worldwide. Your donation directly supports food programs that distribute essential food items, ensuring that no one goes to bed hungry. Together, we can make a significant.",
+        "price": 921.80
     },
     {
         "id": 5,
         "picture": "https://i.ibb.co/p315CJP/C1.webp",
-        "title": "Clothing",
-        "category": "clothing",
+        "title": "Warm Clothing Drive",
+        "category": "Clothing",
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_bg": "#79C23F",
         "button_bg": "#79C23F",
-        "description": "Support clothing drives to   provide attire to those in need.",
-        "price": 29.99
+        "description": "Support a program that provides clothing items to individuals and families facing financial difficulties. Your contribution ensures that people have access to clean, comfortable clothing, boosting their self-esteem and well-being. Clothing assistance programs make a significant impact on the lives of those who need it most. By donating.",
+        "price": 292.99
     },
     {
         "id": 6,
         "picture": "https://i.ibb.co/ngVpKPq/1.webp",
-        "title": "Education",
-        "category": "education",
+        "title": "Empower Underserved Schools",
+        "category": "Education",
         "category_bg": "#ff444a33",
         "card_bg": "#ff444a26",
         "text_bg": "#FF444A",
         "button_bg": "#FF444A",
-        "description": "Empower future child   with education by contributing to scholarships.",
-        "price": 59.99
+        "description": "Make a lasting impact on education by supporting schools and students. We believe that every child deserves access to quality education, regardless of their circumstances. Your donation provides vital resources, including books, technology, and educational programs.",
+        "price": 591.99
     },
     {
         "id": 7,
         "picture": "https://i.ibb.co/GtbB5Zj/h1.webp",
-        "title": "Health",
-        "category": "health",
+        "title": "Provide Healthcare Supplies",
+        "category": "Health",
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_bg": "#0052FF",
         "button_bg": "#0052FF",
-        "description": "Help provide essential   medications to those in need",
-        "price": 19.99
+        "description": "Your generous donation goes a long way in supporting groundbreaking medical research. Our mission is to find innovative solutions to complex health challenges, develop new treatments, and improve the quality of healthcare for all. By contributing, you become a vital part of the research community working tirelessly to discover cures for diseases and improve patient care.",
+        "price": 193.99
     },
     {
         "id": 8,
         "picture": "https://i.ibb.co/qmRWJJH/f1.webp",
-        "title": "Food",
-        "category": "food",
+        "title": "Nutritious Meals for the Needy",
+        "category": "Food",
         "category_bg": "#f8714733",
         "card_bg": "#f8714726",
         "text_bg": "#F87147",
         "button_bg": "#F87147",
-        "description": "Join the fight against   hunger and make a difference with your donation.",
-        "price": 5.99
+        "description": "Join the fight against   hunger and make a difference with your donation.Your contribution goes a long way in supporting local food banks and pantries. Food banks play a critical role in ensuring that vulnerable individuals and families have access to essential groceries. Your donation helps restock their shelves and provide nourishing meals to those facing food insecurity. ",
+        "price": 541.99
     },
     {
         "id": 9,
         "picture": "https://i.ibb.co/DC69Jf7/edu3.webp",
-        "title": "Education",
-        "category": "education",
+        "title": "Educational Access for All",
+        "category": "Education",
         "category_bg": "#ff444a33",
         "card_bg": "#ff444a26",
         "text_bg": "#FF444A",
         "button_bg": "#FF444A",
-        "description": "Support educational for   programs that bridge the learning gap in underserved areas.",
-        "price": 79.99
+        "description": "Invest in the future by providing scholarships to deserving students. Education is a powerful tool for personal growth and social change, and your donation helps break down financial barriers that hinder access to quality education. Scholarships open doors to opportunities, enabling students to pursue their dreams and contribute positively to society..",
+        "price": 796.99
     },
     {
         "id": 10,
         "picture": "https://i.ibb.co/Qbb4RG4/h2.webp",
-        "title": "Health",
-        "category": "health",
+        "title": "Medical Supplies for Communities",
+        "category": "Health",
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_bg": "#0052FF",
         "button_bg": "#0052FF",
-        "description": "Help provide essential  medications to those in need by making a donation.",
-        "price": 34.99
+        "description": "Help us make a difference in healthcare by providing essential supplies to hospitals and clinics. Your donation ensures that healthcare professionals have access to the tools they need to save lives. We prioritize the distribution of medical equipment, protective gear, and other critical supplies to medical facilities in need. Join us in supporting those  of healthcare.",
+        "price": 348.99
     },
     {
         "id": 11,
         "picture": "https://i.ibb.co/J2SXTcQ/C2.webp",
-        "title": "Clothing",
-        "category": "clothing",
+        "title": "Clothing for the Needy",
+        "category": "Clothing",
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_bg": "#79C23F",
         "button_bg": "#79C23F",
-        "description": "Donate clothing to keep   people warm and comfortable during harsh weather.",
-        "price": 49.99
+        "description": "Donate clothing to keep   people warm and comfortable during harsh weather.Your donation helps provide warm clothing to individuals and families in need, especially during cold seasons. Winter can be harsh for those without proper attire, and your support ensures that people stay warm and comfortable. Join us in making a difference in the lives.",
+        "price": 495.99
     },
     {
         "id": 12,
         "picture": "https://i.ibb.co/NChWxMM/f2.webp",
-        "title": "Food",
-        "category": "food",
+        "title": "Meals for the Hungry",
+        "category": "Food",
         "category_bg": "#f8714733",
         "card_bg": "#f8714726",
         "text_bg": "#F87147",
         "button_bg": "#F87147",
-        "description": "Provide meals to those   in need and ensure no one goes to bed hungry.",
-        "price": 19.99
+        "description": "Join us in the battle against hunger by providing nutritious meals to individuals and families in need. Hunger is a pressing issue that affects millions of people worldwide. Your donation directly supports food programs that distribute essential food items, ensuring that no one goes to bed hungry. Together, we can make a significant difference.",
+        "price": 194.99
     }
 ]
